@@ -2,8 +2,6 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import json
 import subprocess
-import requests
-import PyPDF2
 import io
 import os
 
