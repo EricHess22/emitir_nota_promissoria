@@ -22,7 +22,7 @@ with st.sidebar:
 st.sidebar.divider()
 with st.sidebar.expander(":smiley: Apoie para manter este site no ar!", expanded=True):
     st.write('**Chave Pix E-mail:**')
-    st.code('emitirnp@gmail.com')
+    st.code('promocredsorocaba@gmail.com')
     st.write(':green[**#FazUmPix**]')
 
 
